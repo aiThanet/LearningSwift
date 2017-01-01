@@ -12,3 +12,5 @@ amICool = !amICool //Un
 
 var fellGood = amICool ? true : false //Ter
 
+var ss = "test"
+
